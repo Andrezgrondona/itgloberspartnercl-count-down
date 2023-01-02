@@ -1,0 +1,10 @@
+.showcounter {
+    padding: 0.5rem;
+    color: #7d13db;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
